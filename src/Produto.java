@@ -21,17 +21,14 @@ public abstract class Produto {
     }
 
     public String getCategoria() {
-
         return categoria;
     }
 
     public void setCategoria(String categoria) {
-
         this.categoria = categoria;
     }
 
     public int getQuantidade() {
-
         return quantidade;
     }
 
