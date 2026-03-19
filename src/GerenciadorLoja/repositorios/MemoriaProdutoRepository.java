@@ -1,3 +1,7 @@
+package GerenciadorLoja.repositorios;
+
+import GerenciadorLoja.produtos.Produto;
+
 import java.util.*;
 
 public class MemoriaProdutoRepository implements ProdutoRepository {

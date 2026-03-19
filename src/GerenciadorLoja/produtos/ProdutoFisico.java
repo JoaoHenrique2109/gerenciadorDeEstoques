@@ -1,4 +1,6 @@
-public class ProdutoFisico extends Produto{
+package GerenciadorLoja.produtos;
+
+public class ProdutoFisico extends Produto {
     public ProdutoFisico(String id, String nome, String categoria, int quantidade, double preco) {
         this.setId(id);
         this.setNome(nome);

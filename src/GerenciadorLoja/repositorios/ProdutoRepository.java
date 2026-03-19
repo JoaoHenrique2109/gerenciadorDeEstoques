@@ -1,3 +1,7 @@
+package GerenciadorLoja.repositorios;
+
+import GerenciadorLoja.produtos.Produto;
+
 import java.util.List;
 import java.util.Optional;
 

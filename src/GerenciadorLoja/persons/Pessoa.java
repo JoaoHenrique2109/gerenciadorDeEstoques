@@ -1,4 +1,6 @@
- public abstract class Pessoa{
+package GerenciadorLoja.persons;
+
+public abstract class Pessoa{
       private String nome;
       private String cpf;
       private String email;

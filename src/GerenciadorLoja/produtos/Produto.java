@@ -1,3 +1,5 @@
+package GerenciadorLoja.produtos;
+
 public abstract class Produto {
     private String nome;
     private String id;

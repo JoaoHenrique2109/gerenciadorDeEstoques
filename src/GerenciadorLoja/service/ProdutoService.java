@@ -1,8 +1,13 @@
+package GerenciadorLoja.service;
+
+import GerenciadorLoja.produtos.Produto;
+import GerenciadorLoja.repositorios.ProdutoRepository;
+
 import java.util.List;
 import java.util.Optional;
 
 public class ProdutoService {
-    private final  ProdutoRepository repository;
+    private final ProdutoRepository repository;
     public ProdutoService(ProdutoRepository repository) {
         this.repository = repository;
     }

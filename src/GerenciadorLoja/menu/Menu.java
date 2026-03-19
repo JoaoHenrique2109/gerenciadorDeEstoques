@@ -1,3 +1,11 @@
+package GerenciadorLoja.menu;
+
+import GerenciadorLoja.repositorios.MemoriaProdutoRepository;
+import GerenciadorLoja.produtos.Produto;
+import GerenciadorLoja.produtos.ProdutoFisico;
+import GerenciadorLoja.repositorios.ProdutoRepository;
+import GerenciadorLoja.service.ProdutoService;
+
 import java.util.List;
 import java.util.Scanner;
 
